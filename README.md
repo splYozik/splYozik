@@ -18,13 +18,15 @@
 
 ### 🛠️ My Skills
 
-# ==== LANGUAGES & SYSTEMS ====
-**├── Core Dev      ::  Python (requests, bs4) | Go (Learning)**
-**└── Environment   ::  Linux (CLI Administration, Shell)**
+```bash
+# === LANGUAGES & SYSTEMS ===
+├── Core Dev      ::  Python (requests, bs4) | Go (Learning)
+└── Environment   ::  Linux (CLI Administration, Shell)
 
-# ==== OPERATIONS & ASSESSMENTS ====
-**├── Recon         ::  nmap, gobuster, ffuf, curl, dirsearch**
-**├── Exploitation  ::  Burp Suite, sqlmap, Metasploit, Nuclei**
-**├── Audit (SAST)  ::  Semgrep, Source Code Review, OWASP Top 10**
-**└── OS Security   ::  SELinux / AppArmor Policies**
+# === OPERATIONS & ASSESSMENTS ===
+├── Recon         ::  nmap, gobuster, ffuf, curl, dirsearch
+├── Exploitation  ::  Burp Suite, sqlmap, Metasploit, Nuclei
+├── Audit (SAST)  ::  Semgrep, Source Code Review, OWASP Top 10
+└── OS Security   ::  SELinux / AppArmor Policies
+```
 ---
