@@ -20,10 +20,13 @@
 
 ⚙️ **Core Tech Stack**
 `Python` (requests, bs4) • `Go` (Learning) • `Linux` (CLI + Admin)
+
 🌐 **Recon & Enumeration**
 `nmap` • `gobuster` • `ffuf` • `curl` • `dirsearch`
+
 💥 **Active Exploitation & DAST**
 `Burp Suite` • `sqlmap` • `Metasploit` • `Nuclei`
+
 🕵️‍♂️ **Security Audit & Research**
 `SELinux` / `AppArmor` Policies • `Semgrep` (SAST) • `Source Code Review` • `OWASP Top 10`
 
