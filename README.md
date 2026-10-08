@@ -11,7 +11,7 @@
 | :--- | :--- | :--- | :--- |
 | `28.03.2026` | **Quals VRN CTF 2026** | Jeopardy / Team Lead | Top 10 |
 | `11.05.2026` | **Final VRN CTF 2026** | Jeopardy / Team Lead | Top 10 |
-| `01.10.2026` | **GISdays Student CTF 2026** | Jeopardy / Solo | Top 125 |
+| `01.10.2026` | **GISdays Student CTF 2026** | Jeopardy / Solo (Team work :] ) | Top 125 |
 | `10.10.2026` | **KubStu CTF** | Jeopardy / Team Lead | Top N |
 
 ---
