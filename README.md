@@ -7,7 +7,7 @@
 
 ### 🏆 My CTF Events
 
-| Date | Event Name | Format / Mode_official | Result / All competitors|
+| Date | Event Name | Format / Mode official | Result / All competitors|
 | :--- | :--- | :--- | :--- |
 | `28.03.2026` | **Quals VRN CTF 2026** | Jeopardy / Team Lead | Top 10 |
 | `11.05.2026` | **Final VRN CTF 2026** | Jeopardy / Team Lead | Top 10 |
