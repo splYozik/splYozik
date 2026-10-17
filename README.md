@@ -9,8 +9,8 @@
 
 | Date | Event Name | Format / Mode official | Result / All competitors|
 | :--- | :--- | :--- | :--- |
-| `28.03.2026` | **Quals VRN CTF 2026** | Jeopardy / Team [Lead] | Top 10 |
-| `11.05.2026` | **Final VRN CTF 2026** | Jeopardy / Team [Lead] | Top 10 |
+| `28.03.2026` | **Quals VrnCTF 2026** | Jeopardy / Team [Lead] | Top 10 |
+| `11.05.2026` | **Final VrnCTF 2026** | Jeopardy / Team [Lead] | Top 10 |
 | `01.10.2026` | **GISdays Student CTF 2026** | Jeopardy / Solo [Team work :) ] | Top 125 / ~450 |
 | `10.10.2026` | **KubSTU CTF 2026: Autumn** | Jeopardy / Team [Lead] | Top 137 / 433|
 
